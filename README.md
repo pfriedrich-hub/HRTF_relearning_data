@@ -13,4 +13,4 @@ Each participant/condition folder contains:
   which were created using the trialsequence class of the "slab" python package
 - the folder "in_ear_recordings" containing the recordings obtained from the in-ear microphones, which were used to compute the DTFs
 
-please refer to the methods section for a detailed description of recording, DTF calculation and processing
+Please refer to the methods section for a detailed description of recording, DTF calculation and processing.
