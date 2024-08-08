@@ -3,7 +3,9 @@ This repository holds the dataset for the study "Adaptation rate and persistence
 by Paul Friedrich and Marc Schönwiesner, 2024
 
 The dataset has the following folder structure:
+
 Participant ID / Condition 
+
 Each participant/condition folder contains:
 - a <participant_id>.sofa file, which stores the raw measured DTFs
 - the results of the consecutive localization tests as pickle files, titled "localization_<participant id>_<date>,
